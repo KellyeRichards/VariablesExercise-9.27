@@ -34,7 +34,7 @@ const quarter = 0.25, dime = 0.10, nickel = 0.5, penny = 0.1
 
 //! 2. On the next line create a console log that displays all four variable values (0.25, 0.10, etc.) on ONE line in terminal when the file is run.
 
-console log(quarter, dime, nickel, penny);
+console.log(quarter, dime, nickel, penny);
 
 //! 3. Create a new variable with the type of "let" and a name of "letters". Set the value of the variable to the following string "qwertyuiop".
 
